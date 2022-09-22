@@ -1,0 +1,4 @@
+I just put some text here to show that I edited the file
+pwd
+whoami
+hostname
